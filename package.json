@@ -17,5 +17,13 @@
     "douban"
   ],
   "author": "Cath",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cath-gh/clip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cath-gh/clip/issues"
+  },
+  "homepage": "https://github.com/cath-gh/clip#readme"
 }
