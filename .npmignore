@@ -1,3 +1,3 @@
 .idea/
 node_modules/
-files/*.cookie
+*.cookie

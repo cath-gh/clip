@@ -1,5 +1,5 @@
-{
-  "name": "clip",
+﻿{
+  "name": "clipDouban",
   "version": "0.0.1",
   "description": "clip 是抓取提交豆瓣数据的一个小工具，写这个的最初目的就是为了整理我在豆瓣上的电影标签。在几年前我也写过一个C#下基于豆瓣公开API的版本，豆瓣自己的API是有多难用啊。所以这个版本从根本上完全采用网页抓取数据的方法，使用上相对自由。",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "clip",
     "douban"
   ],
-  "author": "Cath",
+  "author": "cath",
   "license": "MIT",
   "repository": {
     "type": "git",
